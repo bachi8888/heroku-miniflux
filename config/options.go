@@ -24,7 +24,7 @@ const (
 	defaultRootURL                            = "http://localhost"
 	defaultBasePath                           = ""
 	defaultWorkerPoolSize                     = 5
-	defaultPollingFrequency                   = 60
+	defaultPollingFrequency                   = 30
 	defaultBatchSize                          = 10
 	defaultPollingScheduler                   = "round_robin"
 	defaultSchedulerEntryFrequencyMinInterval = 5
